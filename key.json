@@ -3,7 +3,7 @@
     "bannerText": "Awaiting Authentication.",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://t.me/+QTHIxoca65MyNTBl",
-    "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
+    "imageUrl": "https://ik.imagekit.io/kyhnnzgnt/20260319_075316.png?updatedAt=1774411563692",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
@@ -14,7 +14,7 @@
       "🛠 Stable Build"
     ],
     "title": "SMLMod Core",
-    "updateMsg": "New DPMods version available! Please update.",
+    "updateMsg": "New SMLMod version available! Please update.",
     "updateRequired": false,
     "updateUrl": "https://t.me/+QTHIxoca65MyNTBl"
   },
