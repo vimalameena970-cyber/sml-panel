@@ -2,7 +2,7 @@
   "AppConfig": {
     "bannerText": "Awaiting Authentication.",
     "getKeyText": "🔑 Get Key ↗️",
-    "getKeyUrl": "https://t.me/dpmodsdialog",
+    "getKeyUrl": "https://t.me/+QTHIxoca65MyNTBl",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
@@ -13,10 +13,10 @@
       "🚀 DPMods V4 🚀",
       "🛠 Stable Build"
     ],
-    "title": "DPMods Core",
+    "title": "SMLMod Core",
     "updateMsg": "New DPMods version available! Please update.",
     "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateUrl": "https://t.me/+QTHIxoca65MyNTBl"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
